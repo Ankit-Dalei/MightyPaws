@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "titlePrefix": "Experience the",
+    "titleTaste": "Taste",
+    "titleSuffix": "of the World",
+    "subtext": "From classic favorites to exotic delights, explore a diverse menu inspired by cuisines from across the globe.",
+    "learnMoreBtn": "Learn More",
+    "offer": {
+      "title": "Great food and lots of discounted prices",
+      "peopleCount": "2k+",
+      "peopleText": "People grabbed the offer",
+      "percentage": "50%",
+      "label": "offer on Now"
+    }
+  },
+  "specials": [
+    {
+      "id": 1,
+      "name": "Breakfast Specials",
+      "description": "Explore our top-rated food categories, crafted to satisfy every craving! From delicious breakfasts to hearty dinners.",
+      "price": "$99/-",
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 2,
+      "name": "Artisan Pizzas",
+      "description": "Hand-tossed dough, organic tomatoes, and premium cheeses. Experience the true history of Italian flavors.",
+      "price": "$120/-",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=800"
+    }
+  ],
+  "featuredMenu": [
+    { "id": 1, "name": "Margherita Pizza", "price": "$19.00", "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&q=80&w=400" },
+    { "id": 2, "name": "Spicy Ramen", "price": "$18.50", "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&q=80&w=400" },
+    { "id": 3, "name": "Classic Burger", "price": "$15.00", "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=400" },
+    { "id": 4, "name": "Chicken Wings", "price": "$12.00", "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&q=80&w=400" },
+    { "id": 5, "name": "Veggie Pasta", "price": "$16.00", "image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&q=80&w=400" },
+    { "id": 6, "name": "Fresh Salad", "price": "$10.00", "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=400" }
+  ],
+  "chefsSection": {
+    "title": "Meet Our Chefs",
+    "chefs": [
+      {
+        "id": 1,
+        "name": "Marco Rossi",
+        "role": "Executive Chef",
+        "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&q=80&w=600"
+      },
+      {
+        "id": 2,
+        "name": "Elena Dumitru",
+        "role": "Head Pastry Chef",
+        "image": "/Head_Pastry_Chef.jpg"
+      },
+      {
+        "id": 3,
+        "name": "James Wilson",
+        "role": "Sous Chef",
+        "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?auto=format&fit=crop&q=80&w=600"
+      }
+    ]
+  },
+  "testimonials": [
+    { "id": 1, "name": "John Smith", "stars": 5, "comment": "Absolutely loved the flavors! The food was fresh, and the delivery was super fast. Highly recommend!" },
+    { "id": 2, "name": "Sarah Connor", "stars": 5, "comment": "The best cafe atmosphere I've experienced. Their historical story really adds to the taste." },
+    { "id": 3, "name": "Mike Ross", "stars": 4, "comment": "Amazing food quality. The artisan pizzas are a must-try for everyone." },
+    { "id": 4, "name": "Emily Chen", "stars": 5, "comment": "The pet-friendly patio is wonderful! My dog loved the environment as much as I loved the coffee." },
+    { "id": 5, "name": "David Brown", "stars": 5, "comment": "Incredible service and a fantastic menu. The sourdough is out of this world." },
+    { "id": 6, "name": "Jessica Taylor", "stars": 4, "comment": "Great place to relax and get some work done. The matcha latte was perfectly balanced." },
+    { "id": 7, "name": "Michael Davis", "stars": 5, "comment": "A true hidden gem. You can tell they use high-quality ingredients in every dish." },
+    { "id": 8, "name": "Linda Martinez", "stars": 5, "comment": "The staff goes above and beyond to make you feel welcome. Also, the desserts are irresistible." },
+    { "id": 9, "name": "Robert Wilson", "stars": 4, "comment": "Good food and quick service. Will definitely be coming back for lunch next week." },
+    { "id": 10, "name": "Maria Garcia", "stars": 5, "comment": "One of the best breakfasts I've had in the city. The portion sizes are generous and satisfying." },
+    { "id": 11, "name": "James Anderson", "stars": 5, "comment": "Stunning aesthetics inside. It's an elegant yet comfortable spot for weekend brunch." },
+    { "id": 12, "name": "Sophia Lee", "stars": 5, "comment": "Such a charming place! The pastries taste like they were flown in from France." },
+    { "id": 13, "name": "William Thomas", "stars": 4, "comment": "Excellent coffee selection. The baristas really know their craft." },
+    { "id": 14, "name": "Olivia Moore", "stars": 5, "comment": "Absolutely perfect from start to finish. The ambiance, the food, the service—flawless." },
+    { "id": 15, "name": "Daniel White", "stars": 5, "comment": "Brought my family here and everyone left happy. The kid-friendly options were a nice touch." },
+    { "id": 16, "name": "Isabella Harris", "stars": 4, "comment": "Loved the spicy ramen—it had just the right amount of kick. A very cozy evening spot." },
+    { "id": 17, "name": "Matthew Martin", "stars": 5, "comment": "Consistently excellent. I'm a regular now, and my standard order never disappoints." },
+    { "id": 18, "name": "Ava Thompson", "stars": 5, "comment": "If you haven't tried their wagyu burger yet, you are seriously missing out." },
+    { "id": 19, "name": "Joseph Clark", "stars": 4, "comment": "Nice location and friendly vibe. They make a great classic iced coffee." },
+    { "id": 20, "name": "Mia Walker", "stars": 5, "comment": "Perfect place for a quiet afternoon reading session. The lemonade is incredibly refreshing." }
+  ],
+  "discounts": [
+    {
+      "id": 1,
+      "title": "Great food and lots of discounted prices",
+      "percentage": "50%",
+      "label": "offer on Now",
+      "peopleCount": "2k+",
+      "peopleText": "People grabbed the offer",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=300"
+    },
+    {
+      "id": 2,
+      "title": "Delicious Breakfast and amazing deals",
+      "percentage": "30%",
+      "label": "Limited Time",
+      "peopleCount": "1.5k+",
+      "peopleText": "Breakfast Lovers",
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=300"
+    },
+    {
+      "id": 3,
+      "title": "Evening Snacks with Special Drinks",
+      "percentage": "20%",
+      "label": "Happy Hours",
+      "peopleCount": "800+",
+      "peopleText": "Enjoying their time",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&q=80&w=300"
+    }
+  ],
+  "petsSection": {
+    "title": "Pets are <span>Always</span> Welcome!",
+    "description": "At Mighty Paws, we believe that every member of the family deserves a seat at the table—including the furry ones! Bring along your pets and enjoy our special pet-friendly outdoor seating.",
+    "images": [
+      "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=600",
+      "https://images.unsplash.com/photo-1541599540903-21b1576d8683?auto=format&fit=crop&q=80&w=600",
+      "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&q=80&w=600",
+      "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?auto=format&fit=crop&q=80&w=600"
+    ]
+  }
+}

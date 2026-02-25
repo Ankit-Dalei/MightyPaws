@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "The Legend of Mighty Paws",
+    "subtext": "A journey through time, taste, and tradition."
+  },
+  "story": {
+    "title": "Where History Meets Modernity",
+    "paragraph1": "Founded in 1924 by a legendary baker who was always accompanied by his giant, friendly mastiff, Mighty Paws began as a small hearth in the heart of the city. The 'Mighty Paws' name was a tribute to the silent companion who stood guard over the sourdough starters.",
+    "paragraph2": "Today, we blend that century-old heritage with modern culinary innovation. Our wood-fired ovens are the same ones used generations ago, but our flavors are boundary-pushing and global.",
+    "image": "/store.jpg"
+  },
+  "stats": [
+    { "label": "Years of History", "value": "100+" },
+    { "label": "Signature Recipes", "value": "50+" },
+    { "label": "Awards Won", "value": "12" }
+  ],
+  "values": [
+    { "title": "Heritage", "description": "Preserving the artisanal techniques of the past." },
+    { "title": "Innovation", "description": "Constantly evolving flavors for the modern palate." },
+    { "title": "Community", "description": "A place where everyone (and their paws) are welcome." }
+  ]
+}

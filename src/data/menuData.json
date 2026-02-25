@@ -1,0 +1,9 @@
+{
+  "categories": ["All", "Breakfast", "Bakery", "Main Course", "Beverages", "Desserts"],
+  "beverages": [
+    { "id": 1, "name": "Artisan Coffee", "price": "$5.00", "description": "Freshly roasted beans with a hint of history.", "image": "/artisan_coffee.png" },
+    { "id": 2, "name": "Iced Matcha", "price": "$6.50", "description": "Premium ceremonial grade matcha whisked to perfection.", "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&q=80&w=600" },
+    { "id": 3, "name": "Craft Lemonade", "price": "$4.50", "description": "Sparkling water with fresh squeezed lemons and mint.", "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&q=80&w=600" },
+    { "id": 4, "name": "Earl Grey Tea", "price": "$4.00", "description": "Classic bergamot infused black tea from historical gardens.", "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=80&w=600" }
+  ]
+}

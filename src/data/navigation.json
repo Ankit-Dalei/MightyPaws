@@ -1,0 +1,20 @@
+{
+  "mainNav": [
+    { "name": "Home", "path": "/" },
+    { "name": "Menu", "path": "/menu" },
+    { "name": "Gallery", "path": "/gallery" },
+    { "name": "About Us", "path": "/about" },
+    { "name": "Contact", "path": "/contact" }
+  ],
+  "footerQuickLinks": [
+    { "name": "Home", "path": "/" },
+    { "name": "About Us", "path": "/about" },
+    { "name": "Gallery", "path": "/gallery" }
+  ],
+  "footerPolicies": [
+    { "name": "Policy Updates", "path": "/policy" },
+    { "name": "Party Sharing", "path": "/sharing" },
+    { "name": "Our Rights", "path": "/rights" },
+    { "name": "Data Protection", "path": "/data" }
+  ]
+}
