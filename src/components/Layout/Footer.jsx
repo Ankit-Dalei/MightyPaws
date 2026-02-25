@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Instagram, Facebook, Twitter, Mail } from 'lucide-react';
 import './Footer.css';
 
@@ -16,10 +17,10 @@ const Footer = () => {
             </h2>
             <p>Experience the finest blend of modern flavors and historical charm. Every bite tells a story.</p>
             <div className="social-links">
-              <a href="#"><Instagram size={20} /></a>
-              <a href="#"><Facebook size={20} /></a>
+              <a href="https://www.instagram.com/mightypaws_cafeandbakery/?hl=en"><Instagram size={20} /></a>
+              {/* <a href="#"><Facebook size={20} /></a>
               <a href="#"><Twitter size={20} /></a>
-              <a href="#"><Mail size={20} /></a>
+              <a href="#"><Mail size={20} /></a> */}
             </div>
           </div>
 
@@ -27,7 +28,7 @@ const Footer = () => {
             <h3>Quick Links</h3>
             <ul>
               {navigation.footerQuickLinks.map((link) => (
-                <li key={link.name}><a href={link.path}>{link.name}</a></li>
+                <li key={link.name}><Link to={link.path}>{link.name}</Link></li>
               ))}
             </ul>
           </div>
@@ -36,7 +37,7 @@ const Footer = () => {
             <h3>Policies</h3>
             <ul>
               {navigation.footerPolicies.map((link) => (
-                <li key={link.name}><a href={link.path}>{link.name}</a></li>
+                <li key={link.name}><Link to={link.path}>{link.name}</Link></li>
               ))}
             </ul>
           </div>
